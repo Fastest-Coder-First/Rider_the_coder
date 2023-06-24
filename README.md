@@ -38,7 +38,10 @@ The project will be evaluated based on the following criteria:
 6. Innovation and Creativity: 5%
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- [Pavan Kamthane](https://github.com/Pavan-Kamthane)
+- [Varad Chandrawar](https://github.com/Varad2k03)
+- [Varun Kotgire](https://github.com/Varun098123)
+- [Omkar Angulwar](https://github.com/OmkarAngulwar)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
