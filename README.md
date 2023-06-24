@@ -18,7 +18,7 @@ The Expense Tracker is a web-based application that helps users track their expe
 ## Usage
 To use the Expense Tracker, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/expense-tracker`
+1. Clone the repository: `git clone https://github.com/Fastest-Coder-First/Rider_the_coder`
 2. Open the `index.html` file in your web browser.
 3. Enter your monthly salary in the provided input field.
 4. Enter the name and amount of each expense in the respective input fields.
