@@ -52,7 +52,7 @@ function addTransactionToList(transaction) {
     const li = document.createElement('li');
     li.innerHTML = `
         <span>${transaction.description}</span>
-        <span>${transaction.type === 'income' ? '+' : '-'}$${transaction.amount.toFixed(2)}</span>
+        <span>${transaction.type === 'income' ? '+' : '-'}₹${transaction.amount.toFixed(2)}</span>
         <button class="delete-btn" onclick="deleteTransaction(${transaction.id})">Delete</button>
     `;
     transactionList.appendChild(li);
@@ -76,7 +76,7 @@ function updateBalance() {
         .reduce((total, transaction) => total + transaction.amount, 0);
 
     const currentBalance = income - expenses;
-    balance.textContent = `$${currentBalance.toFixed(2)}`;
+    balance.textContent = `₹${currentBalance.toFixed(2)}`;
 }
 
 // Function to initialize the application
