@@ -1,4 +1,5 @@
-![Expense Tracker](screenshot.png)
+![finance Tracker](./sc/home.png)
+![finance Tracker Home](./sc/our%20team.png)
 
 ## Description
 The Expense Tracker is a web-based application that helps users track their expenses and manage their budgets. It allows users to enter their monthly salary, add expenses with names and amounts, and view a list of expenses. The application also provides a budget overview, showing the total budget and the remaining amount. This project was developed as part of the hackathon by Team Rider the Coder.
